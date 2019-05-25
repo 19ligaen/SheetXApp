@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Oversikt Bord](README.md)
+* [IDE BORD](ide-bord.md)
+* [Start Guide](untitled.md)
 
