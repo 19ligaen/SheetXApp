@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Oversikt Bord](README.md)
-* [IDE BORD](ide-bord.md)
-* [Start Guide](untitled.md)
+* [Initial page](README.md)
+* [Shit](shit.md)
+* [Fæck](faeck.md)
+* [Update](update.md)
+* [Notater](notater.md)
 
