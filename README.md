@@ -1,4 +1,29 @@
-# Initial page
+---
+description: '{}'
+---
+
+# Per Space
+
+
+
+![Logo](.gitbook/assets/homebackground-1-.jpg)
+
+`[ctrl]`
+
++
+
+/b
+
++/a
+
+$$
+a = b+c/d
+b=2
+c=5
+d=b+c
+$$
+
+
 
 ## Getting Super Powers
 

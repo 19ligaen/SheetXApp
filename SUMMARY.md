@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Per Space](README.md)
 * [Shit](shit.md)
 * [Fæck](faeck.md)
 * [Update](update.md)
